@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is C2B7-E8EE
+
+ Directory of C:\Users\User\Desktop\Git_project
+
+06/21/2017  03:34 PM    <DIR>          .
+06/21/2017  03:34 PM    <DIR>          ..
+06/21/2017  03:34 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  863,170,203,648 bytes free
